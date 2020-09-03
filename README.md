@@ -1,0 +1,2 @@
+# Pima-Indian-heritage--Diabetes-predictive-analysis
+The objective was to identify accurately whether the subject under analysis has diabetes or not based on a set of variables and compare the accuracy obtained from implementing different models.  The Random Forest model gave the highest accuracy compared to Logistic Regression and Decision Tree full-grown and pruned.  We can predict with 78% accuracy whether the person has diabetes or not.
